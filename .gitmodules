@@ -1,0 +1,6 @@
+[submodule "africahornads-v"]
+	path = africahornads-v
+	url = https://github.com/qahme033/africahornads-v.git
+[submodule "africahornads-cms"]
+	path = africahornads-cms
+	url = https://github.com/qahme033/africahornads-cms.git
